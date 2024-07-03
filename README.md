@@ -1,9 +1,9 @@
-Name: SIDDARTHA SILVERI
-Company: CODTECH IT SOLUTIONS
-ID: CT12UI279
-Domain: UI/UX DESIGN
-Duration: 25th MAY 2024 to 25th JULY 2024
-Mentor: SRAVANI GOUNI
+**Name**: SIDDARTHA SILVERI
+**Company**: CODTECH IT SOLUTIONS
+**ID**: CT12UI279
+**Domain**: UI/UX DESIGN
+**Duration**: 25th MAY 2024 to 25th JULY 2024
+**Mentor**: SRAVANI GOUNI
 
 **Overview of the Project:**
  
